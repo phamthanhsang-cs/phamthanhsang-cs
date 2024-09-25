@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Courses
+## Training Courses
 <div>
 <img src="https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
