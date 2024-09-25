@@ -1,5 +1,5 @@
 # cysec-journey
-# Hello, I'm Sang
+# Hi, My name is Sang ^^
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 On a journey to become an interested person, bring this beautiful culture to everyone.
