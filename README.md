@@ -54,7 +54,7 @@ To become a Security / SOC Analyst
     <img src="https://img.shields.io/badge/-Shuffle-3387D9?&style=for-the-badge&logo=&logoColor=white" /> 
 </div>
 
-### Threat Intelligence
+### Cyber Threat Intelligence
 <div> 
     <img src="https://img.shields.io/badge/-MISP-003366?&style=for-the-badge&logo=&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-OpenCTI-6A1B9A?&style=for-the-badge&logo=&logoColor=white" /> 
