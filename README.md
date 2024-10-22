@@ -73,7 +73,7 @@ To become a Security / SOC Analyst
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects / Write-up
+## Projects / Write-ups
 - SOC In My Pocket (Main Project)
 - Trap The Hacker (HoneyPot)
 - Boss of the SOC Walkthrough 
