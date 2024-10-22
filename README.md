@@ -6,7 +6,7 @@ On a journey to become an interested person, bring this beautiful culture to eve
 
 ## Objective
 
-To become a Security / SOC Analyst
+Security / SOC Analyst
 
 ## Skills
 
