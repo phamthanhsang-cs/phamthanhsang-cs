@@ -12,12 +12,12 @@ Security / SOC Analyst
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC In My Pocket / BOTSV1-2-3 / Trap the Hacker |
-| Network Traffic Monitoring and Anomalies Detection | SOC In My Pocket / BOTSV1-2-3 / Trap the Hacker|
-| Endpoints Detection and Response              | SOC In My Pocket|
-| Security Automation with SOAR                 | SOC In My Pocket|
-| Incident Response Planning and Execution      | SOC In My Pocket|
-| Case Management                               | SOC In My Pocket|
+| SIEM Implementation and Log Analysis          | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / BOTSV1-2-3 / Trap the Hacker |
+| Network Traffic Monitoring and Anomalies Detection | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / BOTSV1-2-3 / Trap the Hacker|
+| Endpoints Detection and Response              | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
+| Security Automation with SOAR                 | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
+| Incident Response Planning and Execution      | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
+| Case Management                               | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
 
 ## Tools / Platforms
 
@@ -74,6 +74,6 @@ Security / SOC Analyst
 </div>
 
 ## Projects / Write-ups
-- SOC In My Pocket (Main Project)
+- [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) (Main Project)
 - Trap The Hacker (HoneyPot)
 - Boss of the SOC Walkthrough 
