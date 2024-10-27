@@ -67,13 +67,13 @@ Security / SOC Analyst
 </div>
 
 
-## Certifications
+## Certifications (Not done anything yet, but definitely complete ~ mid 2025)
 <div>
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects / Write-ups
-- [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) (Main Project)
-- Trap The Hacker (HoneyPot)
-- Boss of the SOC Walkthrough 
+- [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) (Main Project) (Doing)
+- Trap The Hacker (HoneyPot) (Planning)
+- Boss of the SOC Walkthrough (Planning/Done BOTSV3)
