@@ -8,14 +8,14 @@ Get a mindset of Proactive Defending and be a part of y'all - one of the most in
 
 ## Skills
 
-| Skill                                            | Associated Project         |
+| Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / Boss of the SOC |
-| Network Monitoring and Anomalies Detection                             | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / Boss of the SOC |
-| Endpoints Detection and Response                                    | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
-| Security Automation with SOAR                                             | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
-| Incident Response Planning and Execution                                  | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
-| Case Management                                                           | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
+| SIEM Implementation and Log Analysis          | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / Boss of the SOC |
+| Network Monitoring and Anomalies Detection    | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / Boss of the SOC |
+| Endpoints Detection and Response              | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
+| Security Automation with SOAR                 | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
+| Incident Response Planning and Execution      | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
+| Case Management                               | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
 
 ## Training Courses
 <div>
