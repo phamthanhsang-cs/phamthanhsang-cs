@@ -4,7 +4,7 @@
 On a journey to become an interesting person, bring this beautiful culture to everyone.
 
 ## Objective
-Get Proactive Defending mindset and be a part of y'all - one of the most interest field and people in this planet
+Be a part of y'all - one of the most interest field and people in this planet
 
 ## Skills
 
