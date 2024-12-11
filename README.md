@@ -12,8 +12,8 @@ Be a part of y'all - one of the most interest field and people in this planet
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / Boss of the SOC |
-| Network Monitoring and Anomalies Detection    | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / Boss of the SOC |
+| SIEM Implementation and Log Analysis          | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / [Boss of the SOC](https://github.com/phamthanhsang-cs/Boss-of-the-SOC) |
+| Network Monitoring and Anomalies Detection    | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) / [Boss of the SOC](https://github.com/phamthanhsang-cs/Boss-of-the-SOC) |
 | Endpoints Detection and Response              | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
 | Security Automation with SOAR                 | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
 | Incident Response Planning and Execution      | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
@@ -33,7 +33,7 @@ Be a part of y'all - one of the most interest field and people in this planet
 
 ## Projects / Write-ups
 - [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) (SOC Lab)
-- Boss of the SOC Walkthrough (CTF Write-ups)
+- [Boss of the SOC Walkthrough](https://github.com/phamthanhsang-cs/Boss-of-the-SOC) (CTF Write-ups)
 
 ## Tools 
 
