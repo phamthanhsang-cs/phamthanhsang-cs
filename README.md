@@ -19,18 +19,16 @@ Be a part of y'all - one of the most interest field and people in this planet
 | Incident Response Planning and Execution      | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
 | Case Management                               | [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)|
 
-## Training Courses
-<div>
-    <img src="https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-
-</div>
-
-
 ## Certifications 
 <div>
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=for-the-badge&logo=ISC2&logoColor=white" />    
+</div>
+
+## Training Courses
+<div>
+    <img src="https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
 ## Projects / Write-ups
