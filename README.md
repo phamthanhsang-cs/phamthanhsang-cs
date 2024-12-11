@@ -44,13 +44,13 @@ Be a part of y'all - one of the most interest field and people in this planet
     <img src="https://img.shields.io/badge/-pfSense-000000?&style=for-the-badge&logo=&logoColor=white" /> 
 </div>
 
-### Network Analysis
+### Network Analyzer
 <div>
     <img src="https://img.shields.io/badge/-Suricata-F05A28?&style=for-the-badge&logo=&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Detection and Response 
 <div>
     <img src="https://img.shields.io/badge/-Elastic_Defend-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3C99DC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
