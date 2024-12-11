@@ -42,7 +42,7 @@ Be a part of y'all - one of the most interest field and people in this planet
     <img src="https://img.shields.io/badge/-Fortigate-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" /> 
     <img src="https://img.shields.io/badge/OPNSense-%23FF5200.svg?style=for-the-badge&logo=opnsense&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-pfSense-000000?&style=for-the-badge&logo=&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Sophos-0080FF?&style=for-the-badge&logo=sophos&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sophos-0080FF?&style=for-the-badge&logo=letter-s&logoColor=white" />
 </div>
 
 ### Network Analyzer
