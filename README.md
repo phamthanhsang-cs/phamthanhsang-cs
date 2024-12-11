@@ -46,8 +46,9 @@ Be a part of y'all - one of the most interest field and people in this planet
 
 ### Network Analyzer
 <div>
-    <img src="https://img.shields.io/badge/-Suricata-F05A28?&style=for-the-badge&logo=&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Suricata-FF5C28?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-005571?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
 ### Endpoint Detection and Response 
