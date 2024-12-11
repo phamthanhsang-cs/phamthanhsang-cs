@@ -32,7 +32,7 @@ Be a part of y'all - one of the most interest field and people in this planet
 
 ## Projects / Write-ups
 - [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) (SOC Lab)
-- [Boss of the SOC Walkthrough](https://github.com/phamthanhsang-cs/Boss-of-the-SOC) (CTF Write-ups)
+- [Boss of the SOC Walkthrough]([https://github.com/phamthanhsang-cs/Boss-of-the-SOC](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/)) (CTF Write-ups)
 
 ## Tools 
 
