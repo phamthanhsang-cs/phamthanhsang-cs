@@ -44,7 +44,7 @@ Be a part of y'all - one of the most interest field and people in this planet
     <img src="https://img.shields.io/badge/-Sophos-0080FF?&style=for-the-badge&logo=letter-s&logoColor=white" />
 </div>
 
-### Network Analyzer
+### Network Analysis
 <div>
     <img src="https://img.shields.io/badge/-Suricata-FF5C28?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -72,7 +72,7 @@ Be a part of y'all - one of the most interest field and people in this planet
     <img src="https://img.shields.io/badge/Shuffle-%23FF6F00.svg?style=for-the-badge&logo=hackthebox&logoColor=white" /> 
 </div>
 
-### Cyber Threat Intelligence
+### Threat Intelligence Platform
 <div> 
     <img src="https://img.shields.io/badge/MISP-%23248BFB.svg?style=for-the-badge&logo=wechat&logoColor=white" /> 
     <img src="https://img.shields.io/badge/OpenCTI-%23003399.svg?style=for-the-badge&logo=nextdns&logoColor=white" /> 
