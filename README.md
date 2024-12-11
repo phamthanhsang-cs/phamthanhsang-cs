@@ -21,7 +21,6 @@ Be a part of y'all - one of the most interest field and people in this planet
 
 ## Certifications 
 <div>
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=for-the-badge&logo=ISC2&logoColor=white" />    
 </div>
