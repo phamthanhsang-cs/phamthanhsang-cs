@@ -40,21 +40,21 @@ Be a part of y'all - one of the most interest field and people in this planet
 <div> 
     <img src="https://img.shields.io/badge/-Fortigate-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" /> 
     <img src="https://img.shields.io/badge/OPNSense-%23FF5200.svg?style=for-the-badge&logo=opnsense&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-pfSense-000000?&style=for-the-badge&logo=&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Sophos-0080FF?&style=for-the-badge&logo=letter-s&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-000000?&style=for-the-badge&logo=baserow&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Sophos-0080FF?&style=for-the-badge&logo=symphony&logoColor=white" />
 </div>
 
 ### Network Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Suricata-FF5C28?&style=for-the-badge&logo=Linux&logoColor=white" />
+<div> 
+    <img src="https://img.shields.io/badge/-Suricata-FF5C28?&style=for-the-badge&logo=awsorganizations&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-005571?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
 ### Endpoint Detection and Response 
 <div>
-    <img src="https://img.shields.io/badge/-Elastic_Defend-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-3C99DC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_Defend-CF4A0C?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-3C99DC?&style=for-the-badge&logo=librewolf&logoColor=white" />
 </div>
 
 ### SIEM / Log Centralization / Monitoring 
