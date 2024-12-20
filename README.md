@@ -11,18 +11,21 @@
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |  |
-| Network Monitoring and Anomalies Detection    |  |
-| Endpoints Detection and Response              | |
-| Security Automation with SOAR                 | |
-| Incident Response Planning and Execution      | |
-| Case Management                               | |
+| **Skill**                                         |        
+|-|
+| SIEM Implementation and Log Analysis          | 
+| Network Monitoring and Anomalies Detection    |  
+| Endpoints Detection and Response              | 
+| Security Automation with SOAR                 | 
+| Incident Response Planning and Execution      | 
+| Case Management                               | 
 
 ## My Projects / Write-ups
-- [SOC In My Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) (SOC Lab)
-- [Boss of the SOC Walkthrough](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/) (CTF Write-ups)
+| **Projects / CTF Write-ups**                                         | Describe        |
+|-|-|
+|[![soc-in-my-pocket](https://img.shields.io/static/v1?label=SOC-in-my-Pocket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)| |
+| [![boss-of-the-soc-walkthrough](https://img.shields.io/static/v1?label=Boss-of-the-SOC&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/)|  |
+
 
 ## Certifications 
 <div>
