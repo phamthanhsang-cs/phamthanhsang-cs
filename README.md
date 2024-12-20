@@ -1,11 +1,11 @@
-# Hi, my name is Sang 
-<a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi, I'm Sang 👋 ! </h1> 
+
+<h2 align="center"> Where to find me </h2>
+<h2 align="center"><a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
-<a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a></h2>
 
-On a journey to become an interesting person, bring this beautiful culture to everyone.
-
-## Objective
+<h2 align="center"> Why i'm here </h2> 
 Be a part of y'all - one of the most interest field and people in this planet
 
 ## Skills
