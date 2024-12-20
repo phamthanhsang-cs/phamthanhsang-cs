@@ -2,29 +2,19 @@
 <p align='center'>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;I'm+a+student!;An+SOC+Analyst+wannabe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;An+SOC+Analyst+wannabe)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 <a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
-## Skills
-
-| **Skill**                                         |        
-|-|
-| SIEM Implementation and Log Analysis          | 
-| Network Monitoring and Anomalies Detection    |  
-| Endpoints Detection and Response              | 
-| Security Automation with SOAR                 | 
-| Incident Response Planning and Execution      | 
-| Case Management                               | 
 
 ## My Projects / Write-ups
 | **Projects / CTF Write-ups**                                         | Describe        |
 |-|-|
-|[![soc-in-my-pocket](https://img.shields.io/static/v1?label=SOC-in-my-Pocket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)| |
-| [![boss-of-the-soc-walkthrough](https://img.shields.io/static/v1?label=Boss-of-the-SOC&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/)|  |
+|[![soc-in-my-pocket](https://img.shields.io/static/v1?label=SOC-in-my-Pocket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)| Design, build, implement and become an SOC Analyst in a foundational Security Operation Center enviroment. |
+| [![boss-of-the-soc-walkthrough](https://img.shields.io/static/v1?label=Boss-of-the-SOC&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/)| Boss of the SOC version 1-2-3 Walkthrough, utilizing tool like Splunk and OSINTs techniques  |
 
 
 ## Certifications 
