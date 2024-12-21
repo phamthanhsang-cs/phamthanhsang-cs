@@ -1,4 +1,4 @@
-<h1> Hi, I'm Sang ! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
+<h1> Hi, my name is Sang ! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
 <p align='center'>
 </p>
 
@@ -13,14 +13,15 @@
 ## My Projects / Write-ups
 | **Projects / CTF Write-ups**                                         | Describe        |
 |-|-|
-|[![soc-in-my-pocket](https://img.shields.io/static/v1?label=SOC-in-my-Pocket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)| Design, build, implement and become an SOC Analyst in a foundational Security Operation Center enviroment. |
-| [![boss-of-the-soc-walkthrough](https://img.shields.io/static/v1?label=Boss-of-the-SOC&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/)| Boss of the SOC version 1-2-3 Walkthrough, utilizing tool like Splunk and OSINTs techniques  |
+|[![soc-in-my-pocket](https://img.shields.io/static/v1?label=SOC-in-my-Pocket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)| Utilize open-source tools to design, build, implement and become an SOC Analyst in a full-scale Security Operation Center enviroment. |
+| [![boss-of-the-soc-walkthrough](https://img.shields.io/static/v1?label=Boss-of-the-SOC&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/)| Boss of the SOC (a blue-team CTF) version 1-2-3 Walkthrough, utilize tool like Splunk for SIEM and various OSINTs techniques  |
 
 
 ## Certifications 
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=flat&logo=ISC2&logoColor=white" />    
+    <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=flat&logo=ISC2&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=flat&logo=Google&logoColor=white" />
 </div>
 
 ## Training Courses
