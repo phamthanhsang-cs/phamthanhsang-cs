@@ -29,9 +29,9 @@
 </div>
 
 
-## Tools 
+## Skills / Tools
 
-### SIEM / Log Centralization / Monitoring 
+### Log analysis, Dashboard creation, and Alerting
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=flat&logo=Elastic&logoColor=white" />
@@ -39,13 +39,13 @@
     <img src="https://img.shields.io/badge/-Grafana-F46800?&style=flat&logo=Grafana&logoColor=white" />
 </div>
 
-### Endpoint Detection and Response 
+### Endpoint monitoring and Threat detection
 <div>
     <img src="https://img.shields.io/badge/-Elastic_Defend-CF4A0C?&style=flat&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3C99DC?&style=flat&logo=librewolf&logoColor=white" />
 </div>
 
-### Firewall
+### Firewall configuration and Network comprehensive
 <div> 
     <img src="https://img.shields.io/badge/-Fortigate-FF0000?&style=flat&logo=Fortinet&logoColor=white" /> 
     <img src="https://img.shields.io/badge/OPNSense-%23FF5200.svg?style=flat&logo=opnsense&logoColor=white" /> 
@@ -53,20 +53,20 @@
     <img src="https://img.shields.io/badge/-Sophos-0080FF?&style=flat&logo=symphony&logoColor=white" />
 </div>
 
-### Threat Intelligence Platform
+### Threat Intelligence integration and IOC correlation
 <div> 
     <img src="https://img.shields.io/badge/MISP-%23248BFB.svg?style=flat&logo=wechat&logoColor=white" /> 
     <img src="https://img.shields.io/badge/OpenCTI-%23003399.svg?style=flat&logo=nextdns&logoColor=white" /> 
 </div>
 
-### Network Analysis
+### Network traffic and Intrusion analysis
 <div> 
     <img src="https://img.shields.io/badge/-Suricata-FF5C28?&style=flat&logo=awsorganizations&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=flat&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-005571?&style=flat&logo=Linux&logoColor=white" />
 </div>
 
-### Security Automation / Collaboration
+### Incident response automation and Case management
 <div> 
     <img src="https://img.shields.io/badge/TheHive-%23FFCD00.svg?style=flat&logo=hive&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Cortex-%2380F5D2.svg?style=flat&logo=serverless&logoColor=white" /> 
