@@ -12,7 +12,7 @@
 
 ## My Projects / Write-ups
 | **Projects / CTF Write-ups**                                         | Describe        |
-|-|-|
+|-----------|-|
 |[![soc-in-my-pocket](https://img.shields.io/static/v1?label=SOC-in-my-Pocket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)| Utilize open-source tools to design, build, implement and become an SOC Analyst in a full-scale Security Operation Center enviroment. |
 | [![boss-of-the-soc-walkthrough](https://img.shields.io/static/v1?label=Boss-of-the-SOC&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://phamthanhsang-cs.github.io/Boss-of-the-SOC/)| Boss of the SOC (a blue-team CTF) version 1-2-3 Walkthrough, utilize tool like Splunk for SIEM and various OSINTs techniques  |
 
