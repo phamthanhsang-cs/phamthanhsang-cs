@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;An+SOC+Analyst+wannabe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;A+SOC+Analyst+wannabe)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
