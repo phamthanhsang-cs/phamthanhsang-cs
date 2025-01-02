@@ -18,11 +18,12 @@
 
 
 ## Certifications 
-<div>
+<!-- <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=flat&logo=ISC2&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=flat&logo=Google&logoColor=white" />
 </div>
+-->
 
 ## Training Courses
 <div>
