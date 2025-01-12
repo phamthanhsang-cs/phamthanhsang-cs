@@ -26,29 +26,15 @@
 -->
 
 ## Training Courses
-<div>
-    <img src="https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=flat&logo=TryHackMe&logoColor=white" />
-</div>
-
+[![TryHackme SOC Analyst Level 1][Tryhackme]][Tryhackme-url]
 
 ## Skills / Tools
 
 ### Log analysis, Dashboard creation, and Alerting
-<div>
-<a href="https://www.splunk.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white" alt="Splunk" />
-</a>
-<a href="https://www.elastic.co" target="_blank">
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=flat&logo=Elastic&logoColor=white" alt="Elastic" />
-</a>
-<a href="https://prometheus.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=flat&logo=Prometheus&logoColor=white" alt="Prometheus" />
-</a>
-<a href="https://grafana.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Grafana-F46800?&style=flat&logo=Grafana&logoColor=white" alt="Grafana" />
-</a>
-
-</div>
+[![Elastic][Elastic]][Elastic-url]
+[![Splunk][Splunk]][Splunk-url]
+[![Grafana][Grafana]][Grafana-url]
+[![Prometheus][Prometheus]][Prometheus-url]
 
 ### Endpoint monitoring and Threat detection
 <div>
@@ -84,6 +70,46 @@
     <img src="https://img.shields.io/badge/Shuffle-%23FF6F00.svg?style=flat&logo=hackthebox&logoColor=white" /> 
 </div>
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!--Certification-->
+
+<!---Training Courses-->
+[Tryhackme]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
+[Tryhackme-url]: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9JFJR40TMQ.pdf
+
+
+<!--SIEM and Log Management-->
+[Elastic]: https://img.shields.io/badge/Elastic-%23005571.svg?style=flat&logo=elastic&logoColor=white
+[Elastic-url]: https://www.elastic.co/
+[Splunk]: https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white
+[Splunk-url]: https://www.splunk.com/
+[Grafana]: https://img.shields.io/badge/-Grafana-F46800?&style=flat&logo=Grafana&logoColor=white
+[Grafana-url]: https://grafana.com/
+[Prometheus]: https://img.shields.io/badge/-Prometheus-E6522C?&style=flat&logo=Prometheus&logoColor=white
+[Prometheus-url]: https://prometheus.io/
+
+<!--Enpoint Protection-->
+[Elastic-Defend]: https://img.shields.io/badge/-Elastic_Defend-CF4A0C?&style=flat&logo=Elastic&logoColor=white
+[Elastic-defend-url]: https://www.elastic.co/guide/en/integrations/current/endpoint.html
+[Wazuh]: https://img.shields.io/badge/-Wazuh-3C99DC?&style=flat&logo=librewolf&logoColor=white
+[Wazuh-url]: https://wazuh.com/
+
+<!--Firewall-->
+[OPNSense]: https://img.shields.io/badge/OPNSense-%23FF5200.svg?style=flat&logo=opnsense&logoColor=white
+[OPNSense-url]: https://opnsense.org/
+
+
+[Shuffle]: https://img.shields.io/badge/Shuffle-%23FF6F00.svg?style=flat&logo=hackthebox&logoColor=white
+[Shuffle-url]: https://shuffler.io/
+[Cortex]: https://img.shields.io/badge/Cortex-%2380F5D2.svg?style=flat&logo=serverless&logoColor=white
+[Cortex-url]: https://strangebee.com/cortex/
+[TheHive]: https://img.shields.io/badge/TheHive-%23FFCD00.svg?style=flat&logo=hive&logoColor=white
+[TheHive-url]: https://strangebee.com/thehive/
+[MISP]: https://img.shields.io/badge/MISP-%23248BFB.svg?style=flat&logo=wechat&logoColor=white
+[MISP-url]: https://www.misp-project.org/
+[OpenCTI]: https://img.shields.io/badge/OpenCTI-%23003399.svg?style=flat&logo=nextdns&logoColor=white
+[OpenCTI-url]: https://filigran.io/solutions/open-cti/
 
 
 
