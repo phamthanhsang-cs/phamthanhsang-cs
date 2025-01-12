@@ -35,10 +35,19 @@
 
 ### Log analysis, Dashboard creation, and Alerting
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=flat&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=flat&logo=Prometheus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Grafana-F46800?&style=flat&logo=Grafana&logoColor=white" />
+<a href="https://www.splunk.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white" alt="Splunk" />
+</a>
+<a href="https://www.elastic.co" target="_blank">
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=flat&logo=Elastic&logoColor=white" alt="Elastic" />
+</a>
+<a href="https://prometheus.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=flat&logo=Prometheus&logoColor=white" alt="Prometheus" />
+</a>
+<a href="https://grafana.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Grafana-F46800?&style=flat&logo=Grafana&logoColor=white" alt="Grafana" />
+</a>
+
 </div>
 
 ### Endpoint monitoring and Threat detection
