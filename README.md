@@ -37,38 +37,28 @@
 [![Prometheus][Prometheus]][Prometheus-url]
 
 ### Endpoint monitoring and Threat detection
-<div>
-    <img src="https://img.shields.io/badge/-Elastic_Defend-CF4A0C?&style=flat&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-3C99DC?&style=flat&logo=librewolf&logoColor=white" />
-</div>
+[![Elastic Defend][Elastic-Defend]][Elastic-Defend-url]
+[![Wazuh][Wazuh]][Wazuh-url]
 
 ### Firewall configuration and Network comprehensive
-<div> 
-    <img src="https://img.shields.io/badge/-Fortigate-FF0000?&style=flat&logo=Fortinet&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/OPNSense-%23FF5200.svg?style=flat&logo=opnsense&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-pfSense-000000?&style=flat&logo=baserow&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Sophos-0080FF?&style=flat&logo=symphony&logoColor=white" />
-</div>
+[![Fortigate][Fortigate]][Fortigate-url]
+[![OPNSense][OPNSense]][OPNSense-url]
+[![pfSense][pfSense]][pfSense-url]
+[![Sophos][Sophos]][Sophos-url]
 
 ### Threat Intelligence integration and IOC correlation
-<div> 
-    <img src="https://img.shields.io/badge/MISP-%23248BFB.svg?style=flat&logo=wechat&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/OpenCTI-%23003399.svg?style=flat&logo=nextdns&logoColor=white" /> 
-</div>
+[![OpenCTI][OpenCTI]][OpenCTI-url]
+[![MISP][MISP]][MISP-url]
 
 ### Network traffic and Intrusion analysis
-<div> 
-    <img src="https://img.shields.io/badge/-Suricata-FF5C28?&style=flat&logo=awsorganizations&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=flat&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-005571?&style=flat&logo=Linux&logoColor=white" />
-</div>
+[![Suricata][Suricata]][Suricata-url]
+[![Wireshark][Wireshark]][Wireshark-url]
+[![tcpdump][tcpdump]][tcpdump-url]
 
 ### Incident response automation and Case management
-<div> 
-    <img src="https://img.shields.io/badge/TheHive-%23FFCD00.svg?style=flat&logo=hive&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Cortex-%2380F5D2.svg?style=flat&logo=serverless&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Shuffle-%23FF6F00.svg?style=flat&logo=hackthebox&logoColor=white" /> 
-</div>
+[![Shuffle][Shuffle]][Shuffle-url]
+[![Cortex][Cortex]][Cortex-url]
+[![TheHive][TheHive]][TheHive-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -91,25 +81,43 @@
 
 <!--Enpoint Protection-->
 [Elastic-Defend]: https://img.shields.io/badge/-Elastic_Defend-CF4A0C?&style=flat&logo=Elastic&logoColor=white
-[Elastic-defend-url]: https://www.elastic.co/guide/en/integrations/current/endpoint.html
+[Elastic-Defend-url]: https://www.elastic.co/guide/en/integrations/current/endpoint.html
 [Wazuh]: https://img.shields.io/badge/-Wazuh-3C99DC?&style=flat&logo=librewolf&logoColor=white
 [Wazuh-url]: https://wazuh.com/
 
 <!--Firewall-->
+[Fortigate]: https://img.shields.io/badge/-Fortigate-FF0000?&style=flat&logo=Fortinet&logoColor=white
+[Fortigate-url]: https://www.fortinet.com/products/next-generation-firewall
 [OPNSense]: https://img.shields.io/badge/OPNSense-%23FF5200.svg?style=flat&logo=opnsense&logoColor=white
 [OPNSense-url]: https://opnsense.org/
+[pfSense]: https://img.shields.io/badge/-pfSense-000000?&style=flat&logo=baserow&logoColor=white
+[pfSense-url]: https://www.pfsense.org/
+[Sophos]: https://img.shields.io/badge/-Sophos-0080FF?&style=flat&logo=symphony&logoColor=white
+[Sophos-url]: https://www.sophos.com/en-us/products/next-gen-firewall
 
+<!--Threat Intelligence-->
+[OpenCTI]: https://img.shields.io/badge/OpenCTI-%23003399.svg?style=flat&logo=nextdns&logoColor=white
+[OpenCTI-url]: https://filigran.io/solutions/open-cti/
+[MISP]: https://img.shields.io/badge/MISP-%23248BFB.svg?style=flat&logo=wechat&logoColor=white
+[MISP-url]: https://www.misp-project.org/
 
+<!--Network analyzer-->
+[Suricata]: https://img.shields.io/badge/-Suricata-FF5C28?&style=flat&logo=awsorganizations&logoColor=white
+[Suricata-url]:https://suricata.io/
+[Wireshark]: https://img.shields.io/badge/-Wireshark-1679A7?&style=flat&logo=Wireshark&logoColor=white
+[Wireshark-url]: https://www.wireshark.org/
+[tcpdump]: https://img.shields.io/badge/-tcpdump-005571?&style=flat&logo=Linux&logoColor=white
+[tcpdump-url]: https://www.tcpdump.org/
+
+<!--SOAR and Case management-->
 [Shuffle]: https://img.shields.io/badge/Shuffle-%23FF6F00.svg?style=flat&logo=hackthebox&logoColor=white
 [Shuffle-url]: https://shuffler.io/
 [Cortex]: https://img.shields.io/badge/Cortex-%2380F5D2.svg?style=flat&logo=serverless&logoColor=white
 [Cortex-url]: https://strangebee.com/cortex/
 [TheHive]: https://img.shields.io/badge/TheHive-%23FFCD00.svg?style=flat&logo=hive&logoColor=white
 [TheHive-url]: https://strangebee.com/thehive/
-[MISP]: https://img.shields.io/badge/MISP-%23248BFB.svg?style=flat&logo=wechat&logoColor=white
-[MISP-url]: https://www.misp-project.org/
-[OpenCTI]: https://img.shields.io/badge/OpenCTI-%23003399.svg?style=flat&logo=nextdns&logoColor=white
-[OpenCTI-url]: https://filigran.io/solutions/open-cti/
+
+
 
 
 
