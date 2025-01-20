@@ -2,19 +2,16 @@
 <p align='center'>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;A+SOC+Analyst+wannabe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;A+SOC+Analyst+trainee)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 <a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
-
 ## My Projects / Write-ups
-| **Projects / CTF Write-ups**                                         | Describe        |
-|-----------|-|
-|[![soc-in-my-pocket](https://img.shields.io/static/v1?label=SOC-in-my-Pocket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)| Utilize open-source tools to design, build, implement and become an SOC Analyst in a full-scale Security Operation Center enviroment. |
-| [![boss-of-the-soc-walkthrough](https://img.shields.io/static/v1?label=Boss-of-the-SOC&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/phamthanhsang-cs/Boss-of-the-SOC)| Boss of the SOC (a blue-team CTF) version 1-2-3 Walkthrough, utilize Splunk for SIEM and various OSINTs techniques  |
+[![SOCIMP](https://github-readme-stats.vercel.app/api/pin/?username=phamthanhsang-cs&repo=SOC-in-my-Pocket&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=002894)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)
+[![BOTS](https://github-readme-stats.vercel.app/api/pin/?username=phamthanhsang-cs&repo=Boss-of-the-SOC&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=002894)](https://github.com/phamthanhsang-cs/Boss-of-the-SOC)
 
 
 ## Certifications 
