@@ -10,15 +10,24 @@
 
 
 ## My Projects / Write-ups
-[![SOCIMP](https://github-readme-stats.vercel.app/api/pin/?username=phamthanhsang-cs&repo=SOC-in-my-Pocket&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=002894)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)
-[![BOTS](https://github-readme-stats.vercel.app/api/pin/?username=phamthanhsang-cs&repo=Boss-of-the-SOC&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=002894)](https://github.com/phamthanhsang-cs/Boss-of-the-SOC)
+|     Project / CTF Write-ups     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| SOC in my Pocket | Network Security, Log Management, Endpoint Detection & Respone, Automation Incident Respond   | OPNSense, Elasticstack, MISP, OpenCTI, Shuffle, Cortex, TheHive, AtomicRedTeam |  <a href="https://github.com/phamthanhsang-cs/SOC-in-my-Pocket">SOCIMP</a>   |
+| Boss of the SOC  | Log Analysis, Threat Hunting, Threat Intelligence   |  Splunk, OSINTs    |                 |
+|                 |                                       |                 |                 |
+
+## Lastest Blog
+## My Recent Blog Posts
+<!-- BEGIN BLOG-CARDS -->
+[![Setup Your Own Boss of the SOC](https://github.com/phamthanhsang-cs/phamthanhsang-cs.github.io/blob/main/assets/images/preview/botssetuppreview.png)](https://phamthanhsang-cs.site/posts/BOTS-setup/)
+
+<!-- END BLOG-CARDS -->
 
 
 ## Certifications 
 <!-- <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=flat&logo=ISC2&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=flat&logo=Google&logoColor=white" />
 </div>
 -->
 
