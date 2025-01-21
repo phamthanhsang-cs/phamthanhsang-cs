@@ -9,13 +9,13 @@
 <a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
-## My Projects 
+## Projects 
 |     Project     |                 Skills                |     Tools       |    
 | --------------- | ------------------------------------- | --------------- | 
 | [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security, SIEM, EDR, SOAR    | OPNSense, Elasticstack, MISP, OpenCTI, Shuffle, Cortex, TheHive, AtomicRedTeam    | 
   
 
-## My CTF Write-ups
+## CTF Write-ups
 |     Project     |                 Skills                |     Tools       |    
 | --------------- | ------------------------------------- | --------------- | 
 | [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/)  | Log Analysis, Threat Hunting, Threat Intelligence   |  Splunk, OSINTs    |  
