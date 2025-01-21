@@ -12,7 +12,7 @@
 ## My Projects 
 |     Project     |                 Skills                |     Tools       |    
 | --------------- | ------------------------------------- | --------------- | 
-| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security, Log Management, EDR, SOAR  | OPNSense, Elasticstack, MISP, OpenCTI, Shuffle, Cortex, TheHive, AtomicRedTeam | 
+| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security, SIEM, EDR, SOAR    | OPNSense, Elasticstack, MISP, OpenCTI, Shuffle, Cortex, TheHive, AtomicRedTeam    | 
   
 
 ## My CTF Write-ups
