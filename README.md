@@ -10,11 +10,15 @@
 
 
 ## My Projects / Write-ups
-|     Project / CTF Write-ups     |                 Skills                |     Tools       |    
+|     Project     |                 Skills                |     Tools       |    
 | --------------- | ------------------------------------- | --------------- | 
 | [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security, Log Management, EDR, SOAR  | OPNSense, Elasticstack, MISP, OpenCTI, Shuffle, Cortex, TheHive, AtomicRedTeam | 
-| [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/)  | Log Analysis, Threat Hunting, Threat Intelligence   |  Splunk, OSINTs    |         |
+  
 
+## My CTF Write-ups
+|     Project     |                 Skills                |     Tools       |    
+| --------------- | ------------------------------------- | --------------- | 
+| [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/)  | Log Analysis, Threat Hunting, Threat Intelligence   |  Splunk, OSINTs    |  
 ## Certifications 
 <!-- <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
