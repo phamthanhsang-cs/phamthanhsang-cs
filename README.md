@@ -9,7 +9,7 @@
 <a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
-## My Projects / Write-ups
+## My Projects 
 |     Project     |                 Skills                |     Tools       |    
 | --------------- | ------------------------------------- | --------------- | 
 | [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security, Log Management, EDR, SOAR  | OPNSense, Elasticstack, MISP, OpenCTI, Shuffle, Cortex, TheHive, AtomicRedTeam | 
