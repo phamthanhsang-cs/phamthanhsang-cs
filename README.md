@@ -12,7 +12,7 @@
 
 
 ## My Projects 
-| **Project Name** | **Skills Learned** | **Tool Utilized** |
+| **Project Name** | **Skills Learned** | **Tools Utilized** |
 |:---|:---|:---|
 | [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | • Network Security<br>• Endpoint Detection and Response<br>• SIEM Management<br>• Monitoring and Optimization<br>• Playbook Automation and Orchestration<br>• SOC Collaboration | • OPNSense<br>• Elasticstack<br>• OpenCTI & MISP<br>• TheHive, Cortex & Shuffle<br>• AtomicRedTeam |
   
