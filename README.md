@@ -21,7 +21,7 @@
   - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
   - Boss of the SOC version 3
   
-- KC7 Cyber Series: Log analysis, threat hunting and anomalies detection utilize Azure Data Explorer, KQL and OSINT techniques.
+- KC7 Cyber Series: Log analysis, threat hunting and anomalies detection utilize Azure Data Explorer with Kusto Query Language.
   - Castle & Sand
   - A Storm is Brewing In the Lab
     
