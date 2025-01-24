@@ -11,9 +11,9 @@
 
 
 ## My Projects 
-| **Project Name** | **Description** | **Skills Learned** | **Tools Utilized** |
-|:---|:---:|:---|:---|
-| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Design, build, implement and become a SOC Analyst in a foundational Security Operation Center enviroment.| • Network Security<br>• Endpoint Detection and Response<br>• SIEM Management<br>• Monitoring and Optimization<br>• Playbook Automation and Orchestration<br>• SOC Collaboration | • OPNSense<br>• Elasticstack<br>• OpenCTI & MISP<br>• TheHive, Cortex & Shuffle<br>• AtomicRedTeam 
+| **Project Name** | **Skills Learned** | **Tools Utilized** |
+|:---|:---|:---|
+| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | • Network Security<br>• Endpoint Detection and Response<br>• SIEM Management<br>• Monitoring and Optimization<br>• Playbook Automation and Orchestration<br>• SOC Collaboration | • OPNSense<br>• Elasticstack<br>• OpenCTI & MISP<br>• TheHive, Cortex & Shuffle<br>• AtomicRedTeam 
   
 ## CTF Write-ups
 - [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/): Log analysis, threat hunting and anomalies detection utilize Splunk and OSINT techniques.
@@ -21,7 +21,7 @@
   - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
   - Boss of the SOC version 3
   
-- KC7 Cyber Series: Log analysis, threat hunting and anomalies detection utilize Azure Data Explorer with Kusto Query Language.
+- KC7 Cyber Series: Demonstrated KQL skills for detecting anomalies in Azure Data Explorer.
   - Castle & Sand
   - A Storm is Brewing In the Lab
     
