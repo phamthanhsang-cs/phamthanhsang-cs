@@ -37,32 +37,44 @@
 
 ## Skills / Tools
 
-### Log analysis, Dashboard creation, and Alerting
+### SIEM and Log Management
+*Proficient in using tools for real-time monitoring, alerting, and visualization of security events.*
+
 [![Elastic][Elastic]][Elastic-url]
 [![Splunk][Splunk]][Splunk-url]
 [![Grafana][Grafana]][Grafana-url]
 [![Prometheus][Prometheus]][Prometheus-url]
 
-### Endpoint monitoring and Threat detection
+### Endpoint Detection and Respone
+*Endpoint monitoring, malware detection, and threat response to ensure endpoint security.*
+
 [![Elastic Defend][Elastic-Defend]][Elastic-Defend-url]
 [![Wazuh][Wazuh]][Wazuh-url]
 
-### Firewall configuration and Network comprehensive
+### Firewall Configuration and Network Comprehensive
+*Experienced in configuring and managing firewalls to secure networks and enforce policies, access control lists.*
+
 [![Fortigate][Fortigate]][Fortigate-url]
 [![OPNSense][OPNSense]][OPNSense-url]
 [![pfSense][pfSense]][pfSense-url]
 [![Sophos][Sophos]][Sophos-url]
 
-### Threat Intelligence integration and IOC correlation
+### Threat Intelligence Platform
+*Security data enrichment and perform IOC correlation with OSINTs.*
+
 [![OpenCTI][OpenCTI]][OpenCTI-url]
 [![MISP][MISP]][MISP-url]
 
-### Network traffic and Intrusion analysis
+### Network Traffic and Intrusion Analysis
+*Capable of analyzing network traffic to detect and mitigate intrusion attempts using advanced monitoring tools.*
+
 [![Suricata][Suricata]][Suricata-url]
 [![Wireshark][Wireshark]][Wireshark-url]
 [![tcpdump][tcpdump]][tcpdump-url]
 
-### Incident response automation and Case management
+### SOAR and Case Management
+*Automating incident response and managing cases effectively.*
+
 [![Shuffle][Shuffle]][Shuffle-url]
 [![Cortex][Cortex]][Cortex-url]
 [![TheHive][TheHive]][TheHive-url]
