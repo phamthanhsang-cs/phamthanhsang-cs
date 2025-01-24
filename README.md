@@ -1,6 +1,5 @@
-<h1> Hi, my name is Sang ! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
-<p align='center'>
-</p>
+<h1> Hi, my name is Sang ! </h1>
+<p align='center'></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;A+SOC+Analyst+trainee)](https://git.io/typing-svg)
 
@@ -12,9 +11,9 @@
 
 
 ## My Projects 
-| **Project Name** | **Skills Learned** | **Tools Utilized** |
-|:---|:---|:---|
-| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | • Network Security<br>• Endpoint Detection and Response<br>• SIEM Management<br>• Monitoring and Optimization<br>• Playbook Automation and Orchestration<br>• SOC Collaboration | • OPNSense<br>• Elasticstack<br>• OpenCTI & MISP<br>• TheHive, Cortex & Shuffle<br>• AtomicRedTeam |
+| **Project Name** | **Description** | **Skills Learned** | **Tools Utilized** |
+|:---|:---:|:---|:---|
+| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Design, build, implement and become a SOC Analyst in a foundational Security Operation Center enviroment.| • Network Security<br>• Endpoint Detection and Response<br>• SIEM Management<br>• Monitoring and Optimization<br>• Playbook Automation and Orchestration<br>• SOC Collaboration | • OPNSense<br>• Elasticstack<br>• OpenCTI & MISP<br>• TheHive, Cortex & Shuffle<br>• AtomicRedTeam 
   
 ## CTF Write-ups
 - [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/): Log analysis, threat hunting and anomalies detection utilize Splunk and OSINT techniques.
