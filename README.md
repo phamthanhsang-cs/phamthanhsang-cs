@@ -4,21 +4,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;A+SOC+Analyst+trainee)](https://git.io/typing-svg)
 
+## Find me here !
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 <a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
 ## Projects 
-|     Project     |                 Skills                |     Tools       |    
-| --------------- | ------------------------------------- | --------------- | 
-| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security, SIEM, EDR, SOAR    | OPNSense, Elasticstack, MISP, OpenCTI, Shuffle, Cortex, TheHive, AtomicRedTeam    | 
+| **Project Name** | **Skills Learned** | **Tool Utilized** |
+|:---:|:---:|:---:|
+| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security<br>Endpoint Detection and Response<br>SIEM Management<br>Monitoring and Optimization<br>Playbook Automation and Orchestration<br>SOC Collaboration | OPNSense<br>Elasticstack<br>OpenCTI & MISP<br>TheHive, Cortex & Shuffle<br>AtomicRedTeam |
   
-
 ## CTF Write-ups
-|     Project     |                 Skills                |     Tools       |    
-| --------------- | ------------------------------------- | --------------- | 
-| [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/)  | Log Analysis, Threat Hunting, Threat Intelligence   |  Splunk, OSINTs    |  
+- [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/): Log analysis, threat hunting and anomalies detection utilize Splunk and OSINT techniques.
+  - [Boss of the SOC version 1](https://phamthanhsang-cs.site/posts/BOTSV1/)
+  - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
+  - Boss of the SOC version 3
+  
+- KC7 Cyber Series: Log analysis, threat hunting and anomalies detection utilize Azure Data Explorer, KQL and OSINT techniques.
+  - Castle & Sand
+  - A Storm is Brewing In the Lab
+    
 ## Certifications 
 <!-- <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
