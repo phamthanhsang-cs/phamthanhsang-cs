@@ -4,16 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;A+SOC+Analyst+trainee)](https://git.io/typing-svg)
 
-## Find me here !
+## Let's Connect !
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 <a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="phamthanhsang-cs.site"><img src="https://img.shields.io/badge/-Visit My Blog-00AA13?style=flat&logo=jekyll&logoColor=white" /></a>
 
 
-## Projects 
+## My Projects 
 | **Project Name** | **Skills Learned** | **Tool Utilized** |
-|:---|:---|---:|
-| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | Network Security<br>Endpoint Detection and Response<br>SIEM Management<br>Monitoring and Optimization<br>Playbook Automation and Orchestration<br>SOC Collaboration | OPNSense<br>Elasticstack<br>OpenCTI & MISP<br>TheHive, Cortex & Shuffle<br>AtomicRedTeam |
+|:---|:---|:---|
+| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | • Network Security<br>• Endpoint Detection and Response<br>• SIEM Management<br>• Monitoring and Optimization<br>• Playbook Automation and Orchestration<br>• SOC Collaboration | • OPNSense<br>• Elasticstack<br>• OpenCTI & MISP<br>• TheHive, Cortex & Shuffle<br>• AtomicRedTeam |
   
 ## CTF Write-ups
 - [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/): Log analysis, threat hunting and anomalies detection utilize Splunk and OSINT techniques.
