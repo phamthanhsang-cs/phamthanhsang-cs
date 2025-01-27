@@ -26,11 +26,11 @@
   - A Storm is Brewing In the Lab
     
 ## Certifications 
-<!-- <div>
+<div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=flat&logo=ISC2&logoColor=white" /> 
 </div>
--->
+
 
 ## Training Courses
 [![TryHackme SOC Analyst Level 1][Tryhackme]][Tryhackme-url]
