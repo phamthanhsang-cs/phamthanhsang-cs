@@ -25,8 +25,10 @@
 - KC7 Cyber Series: Demonstrated KQL skills for detecting anomalies in Azure Data Explorer.
   - Castle & Sand
   - A Storm is Brewing In the Lab
-    
+
 ## Certifications 
+    
+## In-Progress Certifications 
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=flat&logo=ISC2&logoColor=white" /> 
