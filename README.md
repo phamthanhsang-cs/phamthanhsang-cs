@@ -22,7 +22,7 @@
   - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
   - Boss of the SOC version 3
   
-- KC7 Cyber Series: Demonstrated KQL skills for detecting anomalies in Azure Data Explorer.
+- KC7 Cyber Series: KQL skills for detecting anomalies in Azure Data Explorer.
   - Castle & Sand
   - A Storm is Brewing In the Lab
 
