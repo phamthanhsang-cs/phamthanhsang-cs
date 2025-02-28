@@ -27,9 +27,7 @@
   - A Storm is Brewing In the Lab
 
 ## Certifications 
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white" />
-</div>
+[![CompTIA Security+][CompTIA Security+]][CompTIA-url]
     
 ## In-Progress Certifications 
 <div>
@@ -87,6 +85,8 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!--Certification-->
+[CompTIA Security+]: https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white
+[CompTIA-url]: https://www.credly.com/badges/248777f2-4926-42bc-a8f2-0eab6f9f4153/public_url
 
 <!---Training Courses-->
 [Tryhackme]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
