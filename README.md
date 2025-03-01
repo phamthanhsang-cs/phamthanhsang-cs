@@ -29,12 +29,6 @@
 ## Certifications 
 [![CompTIA Security+][CompTIA Security+]][CompTIA-url]
     
-## In-Progress Certifications 
-<div>
-    <img src="https://img.shields.io/badge/-ISC2_CC-00A652?&style=flat&logo=ISC2&logoColor=white" /> 
-</div>
-
-
 ## Training Courses
 [![TryHackme SOC Analyst Level 1][Tryhackme]][Tryhackme-url]
 
