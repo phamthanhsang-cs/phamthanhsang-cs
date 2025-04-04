@@ -1,8 +1,6 @@
 <h1> Hi, my name is Sang ! </h1>
 <p align='center'></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&width=435&lines=Welcome+to+my+cybersecurity+journey!;A+SOC+Analyst+trainee)](https://git.io/typing-svg)
-
 ## Let's Connect !
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://phamthanhsang-cs.site"><img src="https://img.shields.io/badge/-Visit My Blog-00AA13?style=flat&logo=jekyll&logoColor=white" /></a>
