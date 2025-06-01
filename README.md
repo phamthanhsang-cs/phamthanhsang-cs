@@ -18,8 +18,6 @@
 - [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/): Log analysis, threat hunting and anomalies detection utilize Splunk and OSINT techniques.
   - [Boss of the SOC version 1](https://phamthanhsang-cs.site/posts/BOTSV1/)
   - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
-  - Boss of the SOC version 3
-  
 
 ## Certifications 
 [![CompTIA Security+][CompTIA Security+]][CompTIA-url]
