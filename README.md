@@ -9,15 +9,31 @@
 
 
 
-## My Projects 
-| **Project Name** | **Skills Learned** | **Tools Utilized** |
-|:---|:---|:---|
-| [SOC in my Pocket](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)<br>[(SOCIMP)](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket) | • Network Security<br>• Endpoint Detection and Response<br>• SIEM Management<br>• Monitoring and Optimization<br>• Playbook Automation and Orchestration<br>• SOC Collaboration | • OPNSense<br>• Elasticstack<br>• OpenCTI & MISP<br>• TheHive, Cortex & Shuffle<br>• AtomicRedTeam 
-  
+## Projects 
+## SOC in my Pocket (SOCIMP)
+[GitHub Repository](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)
+
+A full-fledged home lab Security Operations Center (SOC) designed to simulate real-world enterprise security environments.
+
+**Skills Learned:**
+- Network Security, Endpoint Detection & Response (EDR)
+- SIEM Deployment & Management (Elastic Stack)
+- Threat Intelligence Integration (OpenCTI, MISP)
+- Security Automation & Orchestration (TheHive, Cortex, Shuffle)
+- Attack Simulation & Detection (Atomic Red Team)
+- SOC Workflow Design and Collaboration
+
+**Tools Utilized:**
+OPNSense · Elastic Stack · OpenCTI · MISP · TheHive · Cortex · Shuffle · AtomicRedTeam
+
 ## CTF Write-ups
-- [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/soc/): Log analysis, threat hunting and anomalies detection utilize Splunk and OSINT techniques.
-  - [Boss of the SOC version 1](https://phamthanhsang-cs.site/posts/BOTSV1/)
-  - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
+
+Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the SOC (BOTS) challenges. These write-ups demonstrate real-world skills in security operations, anomaly detection, and OSINT correlation.
+
+- [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/blue-teaming/)  
+  Hands-on log analysis, threat hunting, and anomaly detection using Splunk and open-source intel (OSINTs).
+  - [Boss of the SOC v1 Write-up](https://phamthanhsang-cs.site/posts/BOTSV1/).
+  - [Boss of the SOC v2 Write-up](https://phamthanhsang-cs.site/posts/BOTSV2/)
 
 ## Certification & Training
 - [![CompTIA Security+][CompTIA Security+]][CompTIA-url]
