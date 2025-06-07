@@ -75,9 +75,9 @@
 <!--Certification & Training-->
 [CompTIA Security+]: https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white
 [CompTIA-url]: https://www.credly.com/badges/248777f2-4926-42bc-a8f2-0eab6f9f4153/public_url
-[Tryhackme]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
+[Tryhackme]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
 [Tryhackme-url]: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9JFJR40TMQ.pdf
-[TryhackmeL2]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_2_Complete_Course-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
+[TryhackmeL2]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_2-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
 [TryhackmeL2-url]: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5HMWLSDGMD.pdf
 
 
