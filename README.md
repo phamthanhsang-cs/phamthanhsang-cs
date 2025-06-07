@@ -20,11 +20,9 @@
   - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
 
 ## Certification & Training
-[![CompTIA Security+][CompTIA Security+]][CompTIA-url]
-
-[![TryHackme SOC Analyst Level 1][Tryhackme]][Tryhackme-url]
-
-[![TryHackme SOC Analyst Level 2][TryhackmeL2]][TryhackmeL2-url]
+- [![CompTIA Security+][CompTIA Security+]][CompTIA-url]
+- [![TryHackme SOC Analyst Level 1][Tryhackme]][Tryhackme-url]
+- [![TryHackme SOC Analyst Level 2][TryhackmeL2]][TryhackmeL2-url]
 
 ## Skills / Tools
 
