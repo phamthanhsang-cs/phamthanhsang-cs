@@ -10,7 +10,7 @@
 
 
 ## Projects 
-## SOC in my Pocket (SOCIMP)
+### SOC in my Pocket (SOCIMP)
 [GitHub Repository](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)
 
 A full-fledged home lab Security Operations Center (SOC) designed to simulate real-world enterprise security environments.
@@ -26,7 +26,7 @@ A full-fledged home lab Security Operations Center (SOC) designed to simulate re
 **Tools Utilized:**
 OPNSense · Elastic Stack · OpenCTI · MISP · TheHive · Cortex · Shuffle · AtomicRedTeam
 
-## CTF Write-ups
+### CTF Write-ups
 
 Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the SOC (BOTS) challenges. These write-ups demonstrate real-world skills in security operations, anomaly detection, and OSINT correlation.
 
