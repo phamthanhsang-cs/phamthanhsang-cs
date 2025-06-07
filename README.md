@@ -19,11 +19,12 @@
   - [Boss of the SOC version 1](https://phamthanhsang-cs.site/posts/BOTSV1/)
   - [Boss of the SOC version 2](https://phamthanhsang-cs.site/posts/BOTSV2/)
 
-## Certifications 
+## Certification & Training
 [![CompTIA Security+][CompTIA Security+]][CompTIA-url]
-    
-## Training Courses
+
 [![TryHackme SOC Analyst Level 1][Tryhackme]][Tryhackme-url]
+
+[![TryHackme SOC Analyst Level 2][TryhackmeL2]][TryhackmeL2-url]
 
 ## Skills / Tools
 
@@ -71,13 +72,13 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!--Certification-->
-[CompTIA Security+]: https://img.shields.io/badge/-Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white
+<!--Certification & Training-->
+[CompTIA Security+]: https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white
 [CompTIA-url]: https://www.credly.com/badges/248777f2-4926-42bc-a8f2-0eab6f9f4153/public_url
-
-<!---Training Courses-->
 [Tryhackme]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_1_Complete_Course-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
 [Tryhackme-url]: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9JFJR40TMQ.pdf
+[TryhackmeL2]: https://img.shields.io/badge/-TryHackMe_SOC_Analyst_Level_2_Complete_Course-2EAD50?&style=flat&logo=TryHackMe&logoColor=white
+[TryhackmeL2-url]: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5HMWLSDGMD.pdf
 
 
 <!--SIEM and Log Management-->
