@@ -7,7 +7,7 @@
 <a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 
-
+---
 
 ## Projects 
 ### SOC in my Pocket (SOCIMP)
@@ -35,14 +35,18 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
   - [Boss of the SOC v1 Write-up](https://phamthanhsang-cs.site/posts/BOTSV1/).
   - [Boss of the SOC v2 Write-up](https://phamthanhsang-cs.site/posts/BOTSV2/)
 
+---
+
 ## Certification & Training
 - [![CompTIA Security+][CompTIA Security+]][CompTIA-url]
 - [![TryHackme SOC Analyst Level 1][Tryhackme]][Tryhackme-url]
 - [![TryHackme SOC Analyst Level 2][TryhackmeL2]][TryhackmeL2-url]
 
+---
+
 ## Skills / Tools
 
-### SIEM and Log Management
+### SIEM and Log Management  
 *Proficient in using tools for real-time monitoring, alerting, and visualization of security events.*
 
 [![Elastic][Elastic]][Elastic-url]
@@ -50,39 +54,45 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 [![Grafana][Grafana]][Grafana-url]
 [![Prometheus][Prometheus]][Prometheus-url]
 
-### Endpoint Detection and Respone
+
+### Endpoint Detection and Response  
 *Endpoint monitoring, malware detection, and threat response to ensure endpoint security.*
 
 [![Elastic Defend][Elastic-Defend]][Elastic-Defend-url]
 [![Wazuh][Wazuh]][Wazuh-url]
 
-### Firewall Configuration and Network Comprehensive
-*Experienced in configuring and managing firewalls to secure networks and enforce policies, access control lists.*
+
+### Firewall & Network Security  
+*Experience with configuring firewalls, managing ACLs, and enforcing secure network policies.*
 
 [![Fortigate][Fortigate]][Fortigate-url]
 [![OPNSense][OPNSense]][OPNSense-url]
 [![pfSense][pfSense]][pfSense-url]
 [![Sophos][Sophos]][Sophos-url]
 
-### Threat Intelligence Platform
-*Security data enrichment and perform IOC correlation with OSINTs.*
+
+### Threat Intelligence Platform  
+*Security data enrichment, IOC correlation, and OSINT integration.*
 
 [![OpenCTI][OpenCTI]][OpenCTI-url]
 [![MISP][MISP]][MISP-url]
 
-### Network Traffic and Intrusion Analysis
-*Capable of analyzing network traffic to detect and mitigate intrusion attempts using advanced monitoring tools.*
+
+### Network Traffic & Intrusion Analysis  
+*Traffic monitoring and packet inspection to detect threats and malicious activity.*
 
 [![Suricata][Suricata]][Suricata-url]
 [![Wireshark][Wireshark]][Wireshark-url]
 [![tcpdump][tcpdump]][tcpdump-url]
 
-### SOAR and Case Management
-*Automating incident response and managing cases effectively.*
+
+### SOAR & Case Management  
+*Automated incident handling and collaborative case management.*
 
 [![Shuffle][Shuffle]][Shuffle-url]
 [![Cortex][Cortex]][Cortex-url]
 [![TheHive][TheHive]][TheHive-url]
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
