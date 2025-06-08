@@ -10,7 +10,7 @@
 ---
 
 ## Projects 
-### SOC in my Pocket (SOCIMP)
+### Home Lab - SOC in my Pocket (SOCIMP)
 [GitHub Repository](https://github.com/phamthanhsang-cs/SOC-in-my-Pocket)
 
 A full-fledged home lab Security Operations Center (SOC) designed to simulate real-world enterprise security environments.
