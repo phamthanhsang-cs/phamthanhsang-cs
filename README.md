@@ -32,8 +32,9 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 
 - [Boss of the SOC Series](https://phamthanhsang-cs.site/categories/blue-teaming/)  
   Hands-on log analysis, threat hunting, and anomaly detection using Splunk and open-source intel (OSINTs).
-  - [Boss of the SOC v1 Write-up](https://phamthanhsang-cs.site/posts/BOTSV1/).
+  - [Boss of the SOC v1 Write-up](https://phamthanhsang-cs.site/posts/BOTSV1/)
   - [Boss of the SOC v2 Write-up](https://phamthanhsang-cs.site/posts/BOTSV2/)
+  - [Boss of the SOC v3 Write-up](https://phamthanhsang-cs.site/posts/BOTSV3/)
 
 ---
 
