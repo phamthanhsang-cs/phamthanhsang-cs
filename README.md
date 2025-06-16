@@ -4,7 +4,7 @@
 ## Let's Connect !
 <a href="https://www.linkedin.com/in/phamthanhsang0311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://phamthanhsang-cs.site"><img src="https://img.shields.io/badge/-Visit My Blog-00AA13?style=flat&logo=jekyll&logoColor=white" /></a>
-<a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-sang3112002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sang3112002@gmail.com"><img src="https://img.shields.io/badge/-phamthanhsang.cs@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/sangpham0311"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 
 ---
