@@ -45,9 +45,9 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 
 ---
 
-## Skills & Tools
+## Skills / Tools
 
-### SIEM and Log Management  
+### SIEM & Log Management  
 *Proficient in using tools for real-time monitoring, alerting, and visualization of security events.*
 
 [![Elastic][Elastic]][Elastic-url]
@@ -56,7 +56,7 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 [![Prometheus][Prometheus]][Prometheus-url]
 
 
-### Endpoint Detection and Response  
+### Endpoint Detection & Response  
 *Endpoint monitoring, malware detection, and threat response to ensure endpoint security.*
 
 [![Elastic Defend][Elastic-Defend]][Elastic-Defend-url]
