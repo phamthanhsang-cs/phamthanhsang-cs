@@ -45,7 +45,7 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 
 ---
 
-## Skills / Tools
+## Skills & Tools
 
 ### SIEM and Log Management  
 *Proficient in using tools for real-time monitoring, alerting, and visualization of security events.*
