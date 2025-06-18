@@ -107,7 +107,7 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 
 
 <!--SIEM and Log Management-->
-[Elastic]: https://img.shields.io/badge/Elastic-%23005571.svg?style=flat&logo=elastic&logoColor=white
+[Elastic]: https://img.shields.io/badge/Elastic_Stack-%23005571.svg?style=flat&logo=elastic&logoColor=white
 [Elastic-url]: https://www.elastic.co/
 [Splunk]: https://img.shields.io/badge/-Splunk-000000?&style=flat&logo=Splunk&logoColor=white
 [Splunk-url]: https://www.splunk.com/
