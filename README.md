@@ -23,8 +23,9 @@ A full-fledged home lab Security Operations Center (SOC) designed to simulate re
 - Attack Simulation & Detection (Atomic Red Team)
 - SOC Workflow Design and Collaboration
 
-**Tools Utilized:**
-OPNSense · Elastic Stack · OpenCTI · MISP · TheHive · Cortex · Shuffle · AtomicRedTeam
+**Tools Utilized:** OPNSense · Elastic Stack · OpenCTI · MISP · TheHive · Cortex · Shuffle · n8n · AtomicRedTeam
+
+**Enviroment:** Proxmox · Windows · Linux · Docker
 
 ### CTF Write-ups
 
