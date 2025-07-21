@@ -48,7 +48,6 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 ## Skills / Tools
 
 ### SIEM & Log Management  
-*Proficient in using tools for real-time monitoring, alerting, and visualization of security events.*
 
 [![Elastic][Elastic]][Elastic-url]
 [![Splunk][Splunk]][Splunk-url]
@@ -57,14 +56,12 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 
 
 ### Endpoint Detection & Response  
-*Endpoint monitoring, malware detection, and threat response to ensure endpoint security.*
 
 [![Elastic Defend][Elastic-Defend]][Elastic-Defend-url]
 [![Wazuh][Wazuh]][Wazuh-url]
 
 
 ### Firewall & Network Security  
-*Experience with configuring firewalls, managing ACLs, and enforcing secure network policies.*
 
 [![Fortigate][Fortigate]][Fortigate-url]
 [![OPNSense][OPNSense]][OPNSense-url]
@@ -73,27 +70,25 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 
 
 ### Threat Intelligence Platform  
-*Security data enrichment, IOC correlation, and OSINT integration.*
 
 [![OpenCTI][OpenCTI]][OpenCTI-url]
 [![MISP][MISP]][MISP-url]
 
 
 ### Network Traffic & Intrusion Analysis  
-*Traffic monitoring and packet inspection to detect threats and malicious activity.*
 
 [![Suricata][Suricata]][Suricata-url]
 [![Wireshark][Wireshark]][Wireshark-url]
 [![tcpdump][tcpdump]][tcpdump-url]
-
+[![snort][snort]][snort-url]
+[![Zeek][Zeek]][Zeek-url]
 
 ### SOAR & Case Management  
-*Automated incident handling and collaborative case management.*
 
 [![Shuffle][Shuffle]][Shuffle-url]
 [![Cortex][Cortex]][Cortex-url]
 [![TheHive][TheHive]][TheHive-url]
-
+[![n8n][n8n]][n8n-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -119,7 +114,7 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 <!--Enpoint Protection-->
 [Elastic-Defend]: https://img.shields.io/badge/-Elastic_Defend-CF4A0C?&style=flat&logo=Elastic&logoColor=white
 [Elastic-Defend-url]: https://www.elastic.co/guide/en/integrations/current/endpoint.html
-[Wazuh]: https://img.shields.io/badge/-Wazuh-3C99DC?&style=flat&logo=librewolf&logoColor=white
+[Wazuh]: https://img.shields.io/badge/-Wazuh-3C99DC?&style=flat&logo=wazuh&logoColor=white
 [Wazuh-url]: https://wazuh.com/
 
 <!--Firewall-->
@@ -138,13 +133,17 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 [MISP]: https://img.shields.io/badge/MISP-%23248BFB.svg?style=flat&logo=wechat&logoColor=white
 [MISP-url]: https://www.misp-project.org/
 
-<!--Network analyzer-->
+<!--Network analyzer / NIDS / NIPS-->
 [Suricata]: https://img.shields.io/badge/-Suricata-FF5C28?&style=flat&logo=awsorganizations&logoColor=white
 [Suricata-url]:https://suricata.io/
 [Wireshark]: https://img.shields.io/badge/-Wireshark-1679A7?&style=flat&logo=Wireshark&logoColor=white
 [Wireshark-url]: https://www.wireshark.org/
 [tcpdump]: https://img.shields.io/badge/-tcpdump-005571?&style=flat&logo=Linux&logoColor=white
 [tcpdump-url]: https://www.tcpdump.org/
+[Zeek]: https://img.shields.io/badge/Zeek-788B95.svg?style=flat&logo=zeek&logoColor=white
+[Zeek-url]: https://zeek.org/
+[snort]: https://img.shields.io/badge/Snort-F6A7AA.svg?style=flat&logo=snort&logoColor=white
+[snort-url]: https://www.snort.org/
 
 <!--SOAR and Case management-->
 [Shuffle]: https://img.shields.io/badge/Shuffle-%23FF6F00.svg?style=flat&logo=hackthebox&logoColor=white
@@ -153,7 +152,8 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 [Cortex-url]: https://strangebee.com/cortex/
 [TheHive]: https://img.shields.io/badge/TheHive-%23FFCD00.svg?style=flat&logo=hive&logoColor=white
 [TheHive-url]: https://strangebee.com/thehive/
-
+[n8n]: https://img.shields.io/badge/n8n-EA4B71.svg?style=flat&logo=n8n&logoColor=white
+[n8n-url]: https://n8n.io/
 
 
 
