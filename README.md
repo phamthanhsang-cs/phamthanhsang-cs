@@ -46,52 +46,6 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
 
 ---
 
-## Skills / Tools
-
-### SIEM & Log Management  
-
-[![Elastic][Elastic]][Elastic-url]
-[![Splunk][Splunk]][Splunk-url]
-[![Grafana][Grafana]][Grafana-url]
-[![Prometheus][Prometheus]][Prometheus-url]
-
-
-### Endpoint Detection & Response  
-
-[![Elastic Defend][Elastic-Defend]][Elastic-Defend-url]
-[![Wazuh][Wazuh]][Wazuh-url]
-
-
-### Firewall & Network Security  
-
-[![Fortigate][Fortigate]][Fortigate-url]
-[![OPNSense][OPNSense]][OPNSense-url]
-[![pfSense][pfSense]][pfSense-url]
-[![Sophos][Sophos]][Sophos-url]
-
-
-### Threat Intelligence Platform  
-
-[![OpenCTI][OpenCTI]][OpenCTI-url]
-[![MISP][MISP]][MISP-url]
-
-
-### Network Traffic & Intrusion Analysis  
-
-[![Suricata][Suricata]][Suricata-url]
-[![Wireshark][Wireshark]][Wireshark-url]
-[![tcpdump][tcpdump]][tcpdump-url]
-[![snort][snort]][snort-url]
-[![Zeek][Zeek]][Zeek-url]
-
-### SOAR & Case Management  
-
-[![Shuffle][Shuffle]][Shuffle-url]
-[![Cortex][Cortex]][Cortex-url]
-[![TheHive][TheHive]][TheHive-url]
-[![n8n][n8n]][n8n-url]
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!--Certification & Training-->
 [CompTIA Security+]: https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=flat&logo=CompTIA&logoColor=white
