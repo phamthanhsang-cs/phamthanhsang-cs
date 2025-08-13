@@ -37,6 +37,8 @@ Explore my threat hunting and log analysis write-ups from Splunk’s Boss of the
   - [Boss of the SOC v2 Write-up](https://phamthanhsang-cs.site/posts/BOTSV2/)
   - [Boss of the SOC v3 Write-up](https://phamthanhsang-cs.site/posts/BOTSV3/)
 
+### CTF Challenge 
+- [Belkasoft CTF#7, July 2025 - Ranked 18th](https://belkasoft.com/belkactf7/scoreboard) 
 ---
 
 ## Certification & Training
